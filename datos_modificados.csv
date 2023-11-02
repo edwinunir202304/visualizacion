@@ -1,0 +1,575 @@
+date,name,value,category
+2012-01-01,PP,42.7,PP
+2012-01-01,PSOE,28.0,PSOE
+2012-01-01,Vox,,Vox
+2012-01-01,Otros,,Otros
+2012-01-01,Podemos,,Podemos
+2012-01-01,Ciudadanos,,Ciudadanos
+2012-01-01,Más País,,Más País
+2012-04-01,PP,40.6,PP
+2012-04-01,PSOE,29.6,PSOE
+2012-04-01,Vox,,Vox
+2012-04-01,Otros,,Otros
+2012-04-01,Podemos,0.8,Podemos
+2012-04-01,Ciudadanos,,Ciudadanos
+2012-04-01,Más País,,Más País
+2012-07-01,PP,36.6,PP
+2012-07-01,PSOE,29.9,PSOE
+2012-07-01,Vox,,Vox
+2012-07-01,Otros,,Otros
+2012-07-01,Podemos,0.8,Podemos
+2012-07-01,Ciudadanos,,Ciudadanos
+2012-07-01,Más País,,Más País
+2012-10-01,PP,35.9,PP
+2012-10-01,PSOE,28.6,PSOE
+2012-10-01,Vox,,Vox
+2012-10-01,Otros,,Otros
+2012-10-01,Podemos,0.7,Podemos
+2012-10-01,Ciudadanos,,Ciudadanos
+2012-10-01,Más País,,Más País
+2013-01-01,PP,35.0,PP
+2013-01-01,PSOE,30.2,PSOE
+2013-01-01,Vox,,Vox
+2013-01-01,Otros,,Otros
+2013-01-01,Podemos,1.1,Podemos
+2013-01-01,Ciudadanos,,Ciudadanos
+2013-01-01,Más País,,Más País
+2013-04-01,PP,34.0,PP
+2013-04-01,PSOE,28.2,PSOE
+2013-04-01,Vox,,Vox
+2013-04-01,Otros,,Otros
+2013-04-01,Podemos,0.5,Podemos
+2013-04-01,Ciudadanos,,Ciudadanos
+2013-04-01,Más País,,Más País
+2013-07-01,PP,32.5,PP
+2013-07-01,PSOE,27.2,PSOE
+2013-07-01,Vox,,Vox
+2013-07-01,Otros,,Otros
+2013-07-01,Podemos,0.9,Podemos
+2013-07-01,Ciudadanos,,Ciudadanos
+2013-07-01,Más País,,Más País
+2013-10-01,PP,34.0,PP
+2013-10-01,PSOE,26.8,PSOE
+2013-10-01,Vox,,Vox
+2013-10-01,Otros,,Otros
+2013-10-01,Podemos,0.5,Podemos
+2013-10-01,Ciudadanos,,Ciudadanos
+2013-10-01,Más País,,Más País
+2014-01-01,PP,32.1,PP
+2014-01-01,PSOE,26.6,PSOE
+2014-01-01,Vox,,Vox
+2014-01-01,Otros,,Otros
+2014-01-01,Podemos,0.8,Podemos
+2014-01-01,Ciudadanos,,Ciudadanos
+2014-01-01,Más País,,Más País
+2014-04-01,PP,31.9,PP
+2014-04-01,PSOE,26.2,PSOE
+2014-04-01,Vox,,Vox
+2014-04-01,Otros,,Otros
+2014-04-01,Podemos,1.7,Podemos
+2014-04-01,Ciudadanos,,Ciudadanos
+2014-04-01,Más País,,Más País
+2014-07-01,PP,30.0,PP
+2014-07-01,PSOE,21.2,PSOE
+2014-07-01,Vox,,Vox
+2014-07-01,Otros,,Otros
+2014-07-01,Podemos,16.7,Podemos
+2014-07-01,Ciudadanos,0.9,Ciudadanos
+2014-07-01,Más País,,Más País
+2014-10-01,PP,27.5,PP
+2014-10-01,PSOE,23.9,PSOE
+2014-10-01,Vox,,Vox
+2014-10-01,Otros,,Otros
+2014-10-01,Podemos,23.6,Podemos
+2014-10-01,Ciudadanos,2.1,Ciudadanos
+2014-10-01,Más País,,Más País
+2015-01-01,PP,27.3,PP
+2015-01-01,PSOE,22.2,PSOE
+2015-01-01,Vox,,Vox
+2015-01-01,Otros,,Otros
+2015-01-01,Podemos,24.5,Podemos
+2015-01-01,Ciudadanos,3.1,Ciudadanos
+2015-01-01,Más País,,Más País
+2015-04-01,PP,25.6,PP
+2015-04-01,PSOE,24.3,PSOE
+2015-04-01,Vox,,Vox
+2015-04-01,Otros,,Otros
+2015-04-01,Podemos,17.3,Podemos
+2015-04-01,Ciudadanos,13.8,Ciudadanos
+2015-04-01,Más País,,Más País
+2015-07-01,PP,28.2,PP
+2015-07-01,PSOE,24.9,PSOE
+2015-07-01,Vox,,Vox
+2015-07-01,Otros,,Otros
+2015-07-01,Podemos,16.9,Podemos
+2015-07-01,Ciudadanos,11.1,Ciudadanos
+2015-07-01,Más País,,Más País
+2015-10-01,PP,29.1,PP
+2015-10-01,PSOE,25.3,PSOE
+2015-10-01,Vox,,Vox
+2015-10-01,Otros,,Otros
+2015-10-01,Podemos,12.2,Podemos
+2015-10-01,Ciudadanos,14.7,Ciudadanos
+2015-10-01,Más País,,Más País
+2016-01-01,PP,28.8,PP
+2016-01-01,PSOE,20.5,PSOE
+2016-01-01,Vox,,Vox
+2016-01-01,Otros,,Otros
+2016-01-01,Podemos,21.9,Podemos
+2016-01-01,Ciudadanos,13.3,Ciudadanos
+2016-01-01,Más País,,Más País
+2016-04-01,PP,27.4,PP
+2016-04-01,PSOE,21.6,PSOE
+2016-04-01,Vox,,Vox
+2016-04-01,Otros,,Otros
+2016-04-01,Podemos,17.7,Podemos
+2016-04-01,Ciudadanos,15.6,Ciudadanos
+2016-04-01,Más País,,Más País
+2016-07-01,PP,32.5,PP
+2016-07-01,PSOE,23.1,PSOE
+2016-07-01,Vox,,Vox
+2016-07-01,Otros,,Otros
+2016-07-01,Podemos,19.6,Podemos
+2016-07-01,Ciudadanos,12.0,Ciudadanos
+2016-07-01,Más País,,Más País
+2016-10-01,PP,34.5,PP
+2016-10-01,PSOE,17.0,PSOE
+2016-10-01,Vox,,Vox
+2016-10-01,Otros,,Otros
+2016-10-01,Podemos,21.8,Podemos
+2016-10-01,Ciudadanos,12.8,Ciudadanos
+2016-10-01,Más País,,Más País
+2017-01-01,PP,33.0,PP
+2017-01-01,PSOE,18.6,PSOE
+2017-01-01,Vox,,Vox
+2017-01-01,Otros,,Otros
+2017-01-01,Podemos,21.7,Podemos
+2017-01-01,Ciudadanos,12.4,Ciudadanos
+2017-01-01,Más País,,Más País
+2017-04-01,PP,31.5,PP
+2017-04-01,PSOE,19.9,PSOE
+2017-04-01,Vox,,Vox
+2017-04-01,Otros,,Otros
+2017-04-01,Podemos,19.7,Podemos
+2017-04-01,Ciudadanos,14.9,Ciudadanos
+2017-04-01,Más País,,Más País
+2017-07-01,PP,28.8,PP
+2017-07-01,PSOE,24.9,PSOE
+2017-07-01,Vox,,Vox
+2017-07-01,Otros,,Otros
+2017-07-01,Podemos,20.3,Podemos
+2017-07-01,Ciudadanos,14.5,Ciudadanos
+2017-07-01,Más País,,Más País
+2017-10-01,PP,28.0,PP
+2017-10-01,PSOE,24.2,PSOE
+2017-10-01,Vox,,Vox
+2017-10-01,Otros,,Otros
+2017-10-01,Podemos,18.5,Podemos
+2017-10-01,Ciudadanos,17.5,Ciudadanos
+2017-10-01,Más País,,Más País
+2018-01-01,PP,26.3,PP
+2018-01-01,PSOE,23.1,PSOE
+2018-01-01,Vox,,Vox
+2018-01-01,Otros,,Otros
+2018-01-01,Podemos,19.0,Podemos
+2018-01-01,Ciudadanos,20.7,Ciudadanos
+2018-01-01,Más País,,Más País
+2018-04-01,PP,24.0,PP
+2018-04-01,PSOE,22.0,PSOE
+2018-04-01,Vox,,Vox
+2018-04-01,Otros,,Otros
+2018-04-01,Podemos,19.6,Podemos
+2018-04-01,Ciudadanos,22.4,Ciudadanos
+2018-04-01,Más País,,Más País
+2018-07-01,PP,20.4,PP
+2018-07-01,PSOE,29.9,PSOE
+2018-07-01,Vox,,Vox
+2018-07-01,Otros,,Otros
+2018-07-01,Podemos,15.6,Podemos
+2018-07-01,Ciudadanos,20.4,Ciudadanos
+2018-07-01,Más País,,Más País
+2018-09-01,PP,20.8,PP
+2018-09-01,PSOE,30.5,PSOE
+2018-09-01,Vox,,Vox
+2018-09-01,Otros,,Otros
+2018-09-01,Podemos,16.1,Podemos
+2018-09-01,Ciudadanos,19.6,Ciudadanos
+2018-09-01,Más País,,Más País
+2018-10-01,PP,18.2,PP
+2018-10-01,PSOE,31.6,PSOE
+2018-10-01,Vox,1.3,Vox
+2018-10-01,Otros,,Otros
+2018-10-01,Podemos,17.3,Podemos
+2018-10-01,Ciudadanos,21.0,Ciudadanos
+2018-10-01,Más País,,Más País
+2018-11-01,PP,19.1,PP
+2018-11-01,PSOE,31.2,PSOE
+2018-11-01,Vox,2.5,Vox
+2018-11-01,Otros,,Otros
+2018-11-01,Podemos,18.0,Podemos
+2018-11-01,Ciudadanos,18.2,Ciudadanos
+2018-11-01,Más País,,Más País
+2018-12-01,PP,19.1,PP
+2018-12-01,PSOE,28.9,PSOE
+2018-12-01,Vox,3.7,Vox
+2018-12-01,Otros,,Otros
+2018-12-01,Podemos,14.9,Podemos
+2018-12-01,Ciudadanos,17.9,Ciudadanos
+2018-12-01,Más País,,Más País
+2019-01-01,PP,14.9,PP
+2019-01-01,PSOE,29.9,PSOE
+2019-01-01,Vox,6.5,Vox
+2019-01-01,Otros,,Otros
+2019-01-01,Podemos,15.4,Podemos
+2019-01-01,Ciudadanos,17.7,Ciudadanos
+2019-01-01,Más País,,Más País
+2019-02-01,PP,16.7,PP
+2019-02-01,PSOE,33.3,PSOE
+2019-02-01,Vox,5.9,Vox
+2019-02-01,Otros,,Otros
+2019-02-01,Podemos,14.5,Podemos
+2019-02-01,Ciudadanos,15.3,Ciudadanos
+2019-02-01,Más País,,Más País
+2019-03-01,PP,17.2,PP
+2019-03-01,PSOE,30.2,PSOE
+2019-03-01,Vox,11.9,Vox
+2019-03-01,Otros,,Otros
+2019-03-01,Podemos,12.9,Podemos
+2019-03-01,Ciudadanos,13.6,Ciudadanos
+2019-03-01,Más País,,Más País
+2019-05-01,PP,11.4,PP
+2019-05-01,PSOE,36.5,PSOE
+2019-05-01,Vox,5.3,Vox
+2019-05-01,Otros,,Otros
+2019-05-01,Podemos,15.3,Podemos
+2019-05-01,Ciudadanos,16.3,Ciudadanos
+2019-05-01,Más País,,Más País
+2019-06-01,PP,13.7,PP
+2019-06-01,PSOE,39.5,PSOE
+2019-06-01,Vox,5.1,Vox
+2019-06-01,Otros,,Otros
+2019-06-01,Podemos,12.7,Podemos
+2019-06-01,Ciudadanos,15.8,Ciudadanos
+2019-06-01,Más País,,Más País
+2019-07-01,PP,13.7,PP
+2019-07-01,PSOE,41.3,PSOE
+2019-07-01,Vox,4.6,Vox
+2019-07-01,Otros,,Otros
+2019-07-01,Podemos,13.1,Podemos
+2019-07-01,Ciudadanos,12.3,Ciudadanos
+2019-07-01,Más País,,Más País
+2019-09-01,PP,17.1,PP
+2019-09-01,PSOE,34.2,PSOE
+2019-09-01,Vox,7.5,Vox
+2019-09-01,Otros,,Otros
+2019-09-01,Podemos,15.5,Podemos
+2019-09-01,Ciudadanos,12.9,Ciudadanos
+2019-09-01,Más País,,Más País
+2019-10-01,PP,18.1,PP
+2019-10-01,PSOE,32.2,PSOE
+2019-10-01,Vox,7.9,Vox
+2019-10-01,Otros,,Otros
+2019-10-01,Podemos,14.6,Podemos
+2019-10-01,Ciudadanos,10.6,Ciudadanos
+2019-10-01,Más País,2.0,Más País
+2019-12-01,PP,20.0,PP
+2019-12-01,PSOE,28.3,PSOE
+2019-12-01,Vox,15.2,Vox
+2019-12-01,Otros,,Otros
+2019-12-01,Podemos,12.8,Podemos
+2019-12-01,Ciudadanos,5.6,Ciudadanos
+2019-12-01,Más País,2.3,Más País
+2020-01-01,PP,19.9,PP
+2020-01-01,PSOE,30.4,PSOE
+2020-01-01,Vox,13.4,Vox
+2020-01-01,Otros,,Otros
+2020-01-01,Podemos,13.8,Podemos
+2020-01-01,Ciudadanos,6.5,Ciudadanos
+2020-01-01,Más País,1.8,Más País
+2020-02-01,PP,18.9,PP
+2020-02-01,PSOE,30.9,PSOE
+2020-02-01,Vox,13.4,Vox
+2020-02-01,Otros,,Otros
+2020-02-01,Podemos,13.4,Podemos
+2020-02-01,Ciudadanos,8.1,Ciudadanos
+2020-02-01,Más País,1.6,Más País
+2020-03-01,PP,19.6,PP
+2020-03-01,PSOE,31.9,PSOE
+2020-03-01,Vox,14.8,Vox
+2020-03-01,Otros,,Otros
+2020-03-01,Podemos,12.9,Podemos
+2020-03-01,Ciudadanos,7.2,Ciudadanos
+2020-03-01,Más País,1.2,Más País
+2020-04-01,PP,21.1,PP
+2020-04-01,PSOE,31.2,PSOE
+2020-04-01,Vox,13.0,Vox
+2020-04-01,Otros,,Otros
+2020-04-01,Podemos,12.0,Podemos
+2020-04-01,Ciudadanos,7.6,Ciudadanos
+2020-04-01,Más País,1.5,Más País
+2020-05-01,PP,20.3,PP
+2020-05-01,PSOE,31.1,PSOE
+2020-05-01,Vox,11.3,Vox
+2020-05-01,Otros,,Otros
+2020-05-01,Podemos,11.5,Podemos
+2020-05-01,Ciudadanos,10.5,Ciudadanos
+2020-05-01,Más País,1.4,Más País
+2020-06-01,PP,20.0,PP
+2020-06-01,PSOE,31.2,PSOE
+2020-06-01,Vox,12.5,Vox
+2020-06-01,Otros,,Otros
+2020-06-01,Podemos,11.4,Podemos
+2020-06-01,Ciudadanos,9.4,Ciudadanos
+2020-06-01,Más País,1.3,Más País
+2020-07-01,PP,21.2,PP
+2020-07-01,PSOE,32.1,PSOE
+2020-07-01,Vox,11.6,Vox
+2020-07-01,Otros,,Otros
+2020-07-01,Podemos,12.1,Podemos
+2020-07-01,Ciudadanos,8.8,Ciudadanos
+2020-07-01,Más País,0.9,Más País
+2020-09-01,PP,18.1,PP
+2020-09-01,PSOE,31.5,PSOE
+2020-09-01,Vox,11.7,Vox
+2020-09-01,Otros,,Otros
+2020-09-01,Podemos,12.2,Podemos
+2020-09-01,Ciudadanos,10.6,Ciudadanos
+2020-09-01,Más País,1.5,Más País
+2020-10-01,PP,18.9,PP
+2020-10-01,PSOE,30.8,PSOE
+2020-10-01,Vox,12.5,Vox
+2020-10-01,Otros,,Otros
+2020-10-01,Podemos,11.7,Podemos
+2020-10-01,Ciudadanos,8.8,Ciudadanos
+2020-10-01,Más País,1.8,Más País
+2020-11-01,PP,18.6,PP
+2020-11-01,PSOE,30.4,PSOE
+2020-11-01,Vox,13.2,Vox
+2020-11-01,Otros,,Otros
+2020-11-01,Podemos,11.4,Podemos
+2020-11-01,Ciudadanos,9.5,Ciudadanos
+2020-11-01,Más País,1.8,Más País
+2020-12-01,PP,19.2,PP
+2020-12-01,PSOE,29.5,PSOE
+2020-12-01,Vox,14.0,Vox
+2020-12-01,Otros,,Otros
+2020-12-01,Podemos,10.8,Podemos
+2020-12-01,Ciudadanos,10.5,Ciudadanos
+2020-12-01,Más País,2.4,Más País
+2021-01-01,PP,20.5,PP
+2021-01-01,PSOE,30.7,PSOE
+2021-01-01,Vox,13.0,Vox
+2021-01-01,Otros,,Otros
+2021-01-01,Podemos,10.7,Podemos
+2021-01-01,Ciudadanos,9.3,Ciudadanos
+2021-01-01,Más País,1.5,Más País
+2021-02-01,PP,18.8,PP
+2021-02-01,PSOE,30.7,PSOE
+2021-02-01,Vox,13.6,Vox
+2021-02-01,Otros,,Otros
+2021-02-01,Podemos,11.2,Podemos
+2021-02-01,Ciudadanos,9.3,Ciudadanos
+2021-02-01,Más País,1.7,Más País
+2021-03-01,PP,17.9,PP
+2021-03-01,PSOE,31.3,PSOE
+2021-03-01,Vox,15.0,Vox
+2021-03-01,Otros,,Otros
+2021-03-01,Podemos,9.6,Podemos
+2021-03-01,Ciudadanos,9.5,Ciudadanos
+2021-03-01,Más País,2.0,Más País
+2021-04-01,PP,20.6,PP
+2021-04-01,PSOE,31.5,PSOE
+2021-04-01,Vox,15.4,Vox
+2021-04-01,Otros,,Otros
+2021-04-01,Podemos,10.7,Podemos
+2021-04-01,Ciudadanos,6.7,Ciudadanos
+2021-04-01,Más País,1.9,Más País
+2021-05-01,PP,23.4,PP
+2021-05-01,PSOE,27.9,PSOE
+2021-05-01,Vox,13.7,Vox
+2021-05-01,Otros,,Otros
+2021-05-01,Podemos,10.4,Podemos
+2021-05-01,Ciudadanos,5.3,Ciudadanos
+2021-05-01,Más País,3.8,Más País
+2021-06-01,PP,23.9,PP
+2021-06-01,PSOE,27.4,PSOE
+2021-06-01,Vox,13.0,Vox
+2021-06-01,Otros,,Otros
+2021-06-01,Podemos,12.0,Podemos
+2021-06-01,Ciudadanos,5.7,Ciudadanos
+2021-06-01,Más País,4.1,Más País
+2021-07-01,PP,23.4,PP
+2021-07-01,PSOE,28.6,PSOE
+2021-07-01,Vox,13.6,Vox
+2021-07-01,Otros,,Otros
+2021-07-01,Podemos,10.6,Podemos
+2021-07-01,Ciudadanos,5.5,Ciudadanos
+2021-07-01,Más País,3.7,Más País
+2021-09-01,PP,20.5,PP
+2021-09-01,PSOE,29.6,PSOE
+2021-09-01,Vox,13.8,Vox
+2021-09-01,Otros,,Otros
+2021-09-01,Podemos,11.3,Podemos
+2021-09-01,Ciudadanos,6.5,Ciudadanos
+2021-09-01,Más País,3.3,Más País
+2021-10-01,PP,22.1,PP
+2021-10-01,PSOE,28.5,PSOE
+2021-10-01,Vox,13.2,Vox
+2021-10-01,Otros,,Otros
+2021-10-01,Podemos,11.8,Podemos
+2021-10-01,Ciudadanos,6.0,Ciudadanos
+2021-10-01,Más País,3.0,Más País
+2021-11-01,PP,20.9,PP
+2021-11-01,PSOE,27.6,PSOE
+2021-11-01,Vox,14.3,Vox
+2021-11-01,Otros,,Otros
+2021-11-01,Podemos,13.6,Podemos
+2021-11-01,Ciudadanos,5.7,Ciudadanos
+2021-11-01,Más País,3.1,Más País
+2021-12-01,PP,20.8,PP
+2021-12-01,PSOE,28.0,PSOE
+2021-12-01,Vox,14.6,Vox
+2021-12-01,Otros,,Otros
+2021-12-01,Podemos,13.7,Podemos
+2021-12-01,Ciudadanos,5.9,Ciudadanos
+2021-12-01,Más País,2.2,Más País
+2022-01-01,PP,21.5,PP
+2022-01-01,PSOE,28.5,PSOE
+2022-01-01,Vox,14.7,Vox
+2022-01-01,Otros,,Otros
+2022-01-01,Podemos,13.1,Podemos
+2022-01-01,Ciudadanos,4.0,Ciudadanos
+2022-01-01,Más País,2.8,Más País
+2022-02-01,PP,21.3,PP
+2022-02-01,PSOE,28.6,PSOE
+2022-02-01,Vox,14.8,Vox
+2022-02-01,Otros,,Otros
+2022-02-01,Podemos,13.6,Podemos
+2022-02-01,Ciudadanos,4.8,Ciudadanos
+2022-02-01,Más País,2.5,Más País
+2022-03-01,PP,23.8,PP
+2022-03-01,PSOE,31.5,PSOE
+2022-03-01,Vox,16.3,Vox
+2022-03-01,Otros,,Otros
+2022-03-01,Podemos,11.8,Podemos
+2022-03-01,Ciudadanos,3.2,Ciudadanos
+2022-03-01,Más País,2.0,Más País
+2022-04-01,PP,27.2,PP
+2022-04-01,PSOE,30.3,PSOE
+2022-04-01,Vox,14.4,Vox
+2022-04-01,Otros,,Otros
+2022-04-01,Podemos,10.7,Podemos
+2022-04-01,Ciudadanos,2.0,Ciudadanos
+2022-04-01,Más País,2.1,Más País
+2022-05-01,PP,28.7,PP
+2022-05-01,PSOE,30.3,PSOE
+2022-05-01,Vox,16.6,Vox
+2022-05-01,Otros,,Otros
+2022-05-01,Podemos,9.6,Podemos
+2022-05-01,Ciudadanos,1.8,Ciudadanos
+2022-05-01,Más País,2.1,Más País
+2022-06-01,PP,27.0,PP
+2022-06-01,PSOE,29.2,PSOE
+2022-06-01,Vox,16.5,Vox
+2022-06-01,Otros,,Otros
+2022-06-01,Podemos,9.8,Podemos
+2022-06-01,Ciudadanos,1.9,Ciudadanos
+2022-06-01,Más País,1.9,Más País
+2022-07-01,PP,30.1,PP
+2022-07-01,PSOE,28.2,PSOE
+2022-07-01,Vox,12.0,Vox
+2022-07-01,Otros,,Otros
+2022-07-01,Podemos,13.4,Podemos
+2022-07-01,Ciudadanos,1.7,Ciudadanos
+2022-07-01,Más País,1.9,Más País
+2022-09-01,PP,28.5,PP
+2022-09-01,PSOE,29.2,PSOE
+2022-09-01,Vox,10.3,Vox
+2022-09-01,Otros,,Otros
+2022-09-01,Podemos,12.8,Podemos
+2022-09-01,Ciudadanos,2.8,Ciudadanos
+2022-09-01,Más País,1.9,Más País
+2022-10-01,PP,28.7,PP
+2022-10-01,PSOE,32.7,PSOE
+2022-10-01,Vox,8.8,Vox
+2022-10-01,Otros,,Otros
+2022-10-01,Podemos,12.7,Podemos
+2022-10-01,Ciudadanos,2.7,Ciudadanos
+2022-10-01,Más País,1.1,Más País
+2022-11-01,PP,27.2,PP
+2022-11-01,PSOE,32.7,PSOE
+2022-11-01,Vox,10.1,Vox
+2022-11-01,Otros,,Otros
+2022-11-01,Podemos,12.2,Podemos
+2022-11-01,Ciudadanos,2.5,Ciudadanos
+2022-11-01,Más País,1.5,Más País
+2022-12-01,PP,28.6,PP
+2022-12-01,PSOE,30.6,PSOE
+2022-12-01,Vox,10.2,Vox
+2022-12-01,Otros,,Otros
+2022-12-01,Podemos,12.4,Podemos
+2022-12-01,Ciudadanos,2.9,Ciudadanos
+2022-12-01,Más País,1.3,Más País
+2023-01-01,PP,28.5,PP
+2023-01-01,PSOE,30.2,PSOE
+2023-01-01,Vox,10.0,Vox
+2023-01-01,Otros,,Otros
+2023-01-01,Podemos,14.2,Podemos
+2023-01-01,Ciudadanos,2.9,Ciudadanos
+2023-01-01,Más País,0.9,Más País
+2023-02-01,PP,29.8,PP
+2023-02-01,PSOE,32.1,PSOE
+2023-02-01,Vox,10.0,Vox
+2023-02-01,Otros,,Otros
+2023-02-01,Podemos,12.7,Podemos
+2023-02-01,Ciudadanos,2.0,Ciudadanos
+2023-02-01,Más País,0.7,Más País
+2023-03-01,PP,28.0,PP
+2023-03-01,PSOE,32.7,PSOE
+2023-03-01,Vox,10.1,Vox
+2023-03-01,Otros,,Otros
+2023-03-01,Podemos,10.0,Podemos
+2023-03-01,Ciudadanos,2.4,Ciudadanos
+2023-03-01,Más País,0.8,Más País
+2023-04-01,PP,26.1,PP
+2023-04-01,PSOE,30.4,PSOE
+2023-04-01,Vox,11.1,Vox
+2023-04-01,Otros,10.6,Otros
+2023-04-01,Podemos,6.7,Podemos
+2023-04-01,Ciudadanos,2.8,Ciudadanos
+2023-04-01,Más País,,Más País
+2023-05-01,PP,27.2,PP
+2023-05-01,PSOE,29.1,PSOE
+2023-05-01,Vox,10.6,Vox
+2023-05-01,Otros,12.3,Otros
+2023-05-01,Podemos,6.1,Podemos
+2023-05-01,Ciudadanos,2.3,Ciudadanos
+2023-05-01,Más País,,Más País
+2023-06-01,PP,30.7,PP
+2023-06-01,PSOE,31.2,PSOE
+2023-06-01,Vox,10.6,Vox
+2023-06-01,Otros,14.3,Otros
+2023-06-01,Podemos,,Podemos
+2023-06-01,Ciudadanos,,Ciudadanos
+2023-06-01,Más País,,Más País
+2023-07-01,PP,29.6,PP
+2023-07-01,PSOE,31.0,PSOE
+2023-07-01,Vox,11.7,Vox
+2023-07-01,Otros,15.5,Otros
+2023-07-01,Podemos,,Podemos
+2023-07-01,Ciudadanos,,Ciudadanos
+2023-07-01,Más País,,Más País
+2023-09-01,PP,31.7,PP
+2023-09-01,PSOE,33.5,PSOE
+2023-09-01,Vox,11.1,Vox
+2023-09-01,Otros,11.9,Otros
+2023-09-01,Podemos,,Podemos
+2023-09-01,Ciudadanos,,Ciudadanos
+2023-09-01,Más País,,Más País
+2023-10-01,PP,32.2,PP
+2023-10-01,PSOE,32.6,PSOE
+2023-10-01,Vox,10.1,Vox
+2023-10-01,Otros,12.7,Otros
+2023-10-01,Podemos,,Podemos
+2023-10-01,Ciudadanos,,Ciudadanos
+2023-10-01,Más País,,Más País
